@@ -7,5 +7,12 @@ abstract = ""
 featured = false
 publication = "*Psychological Research*"
 url_pdf = "pdf/Georgii2019.pdf"
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 +++
 
