@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Psychological Research*"
+url_pdf = "pdf/Georgii2019.pdf"
 +++
 
