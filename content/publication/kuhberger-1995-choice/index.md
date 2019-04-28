@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Mind & language*"
+url_pdf="pdf/Kuehberger1995.pdf"
 +++
 

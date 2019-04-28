@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*A handbook of process tracing methods for decision research*"
+url_pdf = "pdf/Huber2011.pdf"
 +++
 
