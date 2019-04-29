@@ -18,7 +18,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "SchulteMi"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -58,7 +58,7 @@ address = "University of Bern, Engehaldenstr. 4, 3012 Bern, Switzerland"
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -85,10 +85,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 1
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "46.962042"
+longitude = "7.442059"
 zoom = 15
 
 ############################
