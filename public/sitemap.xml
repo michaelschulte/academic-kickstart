@@ -605,11 +605,6 @@
   </url>
   
   <url>
-    <loc>/publication/pachur-2017-author/</loc>
-    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/benjamin-gagl/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -676,6 +671,11 @@
   
   <url>
     <loc>/publication/schulte-2017-process/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pachur-2017-author/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
   </url>
   
