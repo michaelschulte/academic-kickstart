@@ -125,6 +125,5 @@ date_format = "2006"
   location = "Salzburg, Austria"
   date_start = "1995-01-01"
   date_end = "1996-01-01"
-  description = """"""
-
+  description = """""" s
 +++
