@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Mon, 10 Dec 2018 06:05:56 -0700</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pictures</title>
+      <link>/post/pictures/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pictures/</guid>
+      <description>So, here we go - new blogdown site &amp;hellip; thanks to Dan (https://twitter.com/dsquintana) to kicked me over the edge actually doing this &amp;hellip;
+Things are fine, the site is up - pictures are still linked back to my old wordpress site &amp;hellip; will figure this out eventually &amp;hellip; but this is live now - for your reading pleasure :)</description>
+    </item>
     
     <item>
       <title>BernR Meetup</title>
@@ -44,7 +53,7 @@ We got our hands on a rich dataset of speed measures the police in Zürich (Swit
     </item>
     
     <item>
-      <title>Professor priming &amp;#8211; or not</title>
+      <title>Professor priming - or not</title>
       <link>/post/2017-11-13-professor-priming-or-not/</link>
       <pubDate>Mon, 13 Nov 2017 14:23:40 -0700</pubDate>
       
