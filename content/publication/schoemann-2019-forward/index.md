@@ -7,7 +7,7 @@ abstract = "The study of cognitive processes is built on a close mapping between
 featured = false
 publication = "*Journal of Behavioral Decision Making*"
 
-url_code = "https://osf.io/q3ybt/"
+url_dataset = "https://osf.io/q3ybt/"
 url_pdf = "pdf/Schoemann2019.pdf"
 +++
 

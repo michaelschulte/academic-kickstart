@@ -7,5 +7,6 @@ abstract = "The goal of this study was to validate AFFDEX and FACET, two algorit
 featured = false
 publication = "*Behavior research methods*"
 url_pdf="pdf/Stockli.pdf"
+url_dataset = "https://osf.io/p6dy4/"
 +++
 

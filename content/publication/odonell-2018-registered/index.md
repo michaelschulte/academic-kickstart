@@ -7,5 +7,6 @@ abstract = "Dijksterhuis and van Knippenberg (1998) reported that participants p
 featured = false
 publication = "*Perspectives on Psychological Science*"
 url_pdf="pdf/ODonnell2018.pdf"
+url_dataset = "https://osf.io/t47wp/"
 +++
 
