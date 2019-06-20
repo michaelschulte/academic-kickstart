@@ -7,5 +7,6 @@ abstract = "The challenge in inferring cognitive processes from observational da
 featured = false
 publication = "*Journal of Behavioral Decision Making*"
 url_pdf="pdf/Schulte-Mecklenbeck2017.pdf"
+url_dataset = "https://osf.io/eq8uz/"
 +++
 

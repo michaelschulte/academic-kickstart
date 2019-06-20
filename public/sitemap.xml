@@ -33,7 +33,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-20T17:20:36+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,7 +62,7 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2019-06-20T11:04:43+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,7 +92,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-06-20T11:04:43+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -164,7 +164,7 @@
   
   <url>
     <loc>/publication/schoemann-2019-forward/</loc>
-    <lastmod>2019-06-20T11:04:43+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
   </url>
   
   <url>
@@ -174,7 +174,7 @@
   
   <url>
     <loc>/authors/frank-renkewitz/</loc>
-    <lastmod>2019-06-20T11:04:43+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -258,13 +258,13 @@
   
   <url>
     <loc>/authors/martin-schoemann/</loc>
-    <lastmod>2019-06-20T11:04:43+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/michael-schulte-mecklenbeck/</loc>
-    <lastmod>2019-06-20T11:04:43+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -305,7 +305,7 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-06-20T11:04:43+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -317,7 +317,7 @@
   
   <url>
     <loc>/authors/stefan-scherbaum/</loc>
-    <lastmod>2019-06-20T11:04:43+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -415,7 +415,7 @@
   
   <url>
     <loc>/authors/others/</loc>
-    <lastmod>2019-04-27T17:11:54+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -443,7 +443,7 @@
   
   <url>
     <loc>/authors/andrea-c-samson/</loc>
-    <lastmod>2019-04-29T12:15:00+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -461,13 +461,13 @@
   
   <url>
     <loc>/authors/athfah-akhtar/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/balazs-aczel/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -502,7 +502,7 @@
   
   <url>
     <loc>/authors/evi-ackermann/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -514,7 +514,7 @@
   
   <url>
     <loc>/publication/stockli-2018-facial/</loc>
-    <lastmod>2019-04-29T12:15:00+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
   </url>
   
   <url>
@@ -549,7 +549,7 @@
   
   <url>
     <loc>/authors/leif-d-nelson/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -561,7 +561,7 @@
   
   <url>
     <loc>/authors/mark-aveyard/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -573,42 +573,53 @@
   
   <url>
     <loc>/authors/michael-odonnell/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/nasseem-alshaif/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/peter-babincak/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/publication/pachur-2018-author/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/ralph-hertwig/</loc>
-    <lastmod>2019-04-29T13:37:15+02:00</lastmod>
+    <lastmod>2019-04-29T09:17:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/odonell-2018-registered/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ronald-andringa/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ryan-o-murphy/</loc>
+    <lastmod>2019-04-29T09:17:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sabrina-st%C3%B6ckli/</loc>
-    <lastmod>2019-04-29T12:15:00+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -631,7 +642,7 @@
   
   <url>
     <loc>/authors/silvio-aldrovandi/</loc>
-    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -643,13 +654,19 @@
   
   <url>
     <loc>/authors/stefan-borer/</loc>
-    <lastmod>2019-04-29T12:15:00+02:00</lastmod>
+    <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/stefan-stieger/</loc>
     <lastmod>2019-04-27T17:11:54+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/thorsten-pachur/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -813,25 +830,8 @@
   </url>
   
   <url>
-    <loc>/publication/pachur-2017-author/</loc>
-    <lastmod>2019-04-29T13:37:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ryan-o-murphy/</loc>
-    <lastmod>2019-04-29T13:37:15+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/schulte-2015-visibility/</loc>
     <lastmod>2019-04-29T12:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/thorsten-pachur/</loc>
-    <lastmod>2019-04-29T13:37:15+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
