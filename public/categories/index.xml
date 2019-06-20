@@ -13,11 +13,56 @@
     
     
     <item>
+      <title>Decision Making</title>
+      <link>/categories/decision-making/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye tracking</title>
+      <link>/categories/eye-tracking/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flashlight</title>
+      <link>/categories/flashlight/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/flashlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>/categories/r/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mousetracking</title>
+      <link>/categories/mousetracking/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mousetracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process tracing</title>
+      <link>/categories/process-tracing/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/process-tracing/</guid>
       <description></description>
     </item>
     
@@ -76,15 +121,6 @@
     </item>
     
     <item>
-      <title>Decision Making</title>
-      <link>/categories/decision-making/</link>
-      <pubDate>Mon, 13 Nov 2017 14:23:40 -0700</pubDate>
-      
-      <guid>/categories/decision-making/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>RRR</title>
       <link>/categories/rrr/</link>
       <pubDate>Mon, 13 Nov 2017 14:23:40 -0700</pubDate>
@@ -121,29 +157,11 @@
     </item>
     
     <item>
-      <title>process tracing</title>
-      <link>/categories/process-tracing/</link>
-      <pubDate>Wed, 12 Apr 2017 07:45:12 -0700</pubDate>
-      
-      <guid>/categories/process-tracing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ggplot</title>
       <link>/categories/ggplot/</link>
       <pubDate>Wed, 12 Apr 2017 07:29:00 -0700</pubDate>
       
       <guid>/categories/ggplot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eye tracking</title>
-      <link>/categories/eye-tracking/</link>
-      <pubDate>Mon, 13 Mar 2017 12:20:52 -0700</pubDate>
-      
-      <guid>/categories/eye-tracking/</guid>
       <description></description>
     </item>
     
@@ -189,15 +207,6 @@
       <pubDate>Fri, 20 Feb 2015 06:35:25 -0700</pubDate>
       
       <guid>/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flashlight</title>
-      <link>/categories/flashlight/</link>
-      <pubDate>Sat, 07 Feb 2015 15:15:17 -0700</pubDate>
-      
-      <guid>/categories/flashlight/</guid>
       <description></description>
     </item>
     
