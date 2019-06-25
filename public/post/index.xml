@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>What HoPTM looks like from the inside</title>
+      <link>/post/what-hoptm-looks-like-from-the-inside/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-hoptm-looks-like-from-the-inside/</guid>
+      <description>As mentioned some days ago our https://www.schulte-mecklenbeck.com/post/hoptm/ is out in the wild &amp;hellip;
+Here is a bit of an overview of what is going on inside :)
+The book has 390 pages divided into 24 chapters. There are 202014 words in there including everything (references, thanks, hello, goodbye &amp;hellip;).
+Ignoring the chapters and that they have reference lists, that mess up things a bit, first an overview of frequency for highly frequent words:</description>
+    </item>
+    
+    <item>
       <title>Handbook of Process Tracing Methods</title>
       <link>/post/hoptm/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
@@ -31,6 +43,15 @@ It is bigger and better than the first edition, comes with the classics (Figner 
       <guid>/post/pictures/</guid>
       <description>So, here we go - new blogdown site &amp;hellip; thanks to Dan (https://twitter.com/dsquintana) to kicked me over the edge actually doing this &amp;hellip;
 Things are fine, the site is up - pictures are still linked back to my old wordpress site &amp;hellip; will figure this out eventually &amp;hellip; but this is live now - for your reading pleasure :)</description>
+    </item>
+    
+    <item>
+      <title>BernR Meetup</title>
+      <link>/post/2019-06-04-hoptm2ndedition/</link>
+      <pubDate>Tue, 04 Jun 2019 06:05:56 -0700</pubDate>
+      
+      <guid>/post/2019-06-04-hoptm2ndedition/</guid>
+      <description>Today (Dec 10th 2018) we will meet for the first BernR Meetup (https://www.meetup.com/Bern-R/) &amp;#8211; hope to learn new things and get to know cool R people. More to follow soon ..</description>
     </item>
     
     <item>

@@ -3,25 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-06-21T09:54:30+02:00</lastmod>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/what-hoptm-looks-like-from-the-inside/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/process-tracing/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/project/light/</loc>
-    <lastmod>2019-06-21T09:54:30+02:00</lastmod>
+    <lastmod>2019-06-21T10:03:29+02:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2019-06-21T09:54:30+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-06-20T17:20:36+02:00</lastmod>
+    <lastmod>2019-06-21T10:03:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -54,26 +71,25 @@
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-06-20T17:09:40+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/mousetracking/</loc>
     <lastmod>2019-06-20T17:20:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/process-tracing/</loc>
-    <lastmod>2019-06-20T17:20:36+02:00</lastmod>
+    <loc>/post/2019-06-04-hoptm2ndedition/</loc>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/handbook/</loc>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2019-06-20T22:34:42+02:00</lastmod>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,7 +119,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-06-20T22:34:42+02:00</lastmod>
+    <lastmod>2019-06-24T10:04:13+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -275,7 +291,7 @@
   
   <url>
     <loc>/authors/michael-schulte-mecklenbeck/</loc>
-    <lastmod>2019-06-20T22:34:42+02:00</lastmod>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -316,7 +332,7 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-06-20T22:34:42+02:00</lastmod>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -327,9 +343,20 @@
   </url>
   
   <url>
+    <loc>/authors/ralph-hertwig/</loc>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/stefan-scherbaum/</loc>
     <lastmod>2019-06-20T20:21:11+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/lejarraga-2019-loss/</loc>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
   </url>
   
   <url>
@@ -340,6 +367,12 @@
   <url>
     <loc>/authors/thomas-pasquier/</loc>
     <lastmod>2019-05-17T15:58:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/thorsten-pachur/</loc>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -358,6 +391,12 @@
   <url>
     <loc>/authors/tom-crick/</loc>
     <lastmod>2019-05-17T15:58:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tom%C3%A1s-lejarraga/</loc>
+    <lastmod>2019-06-24T09:20:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -606,12 +645,6 @@
   </url>
   
   <url>
-    <loc>/authors/ralph-hertwig/</loc>
-    <lastmod>2019-06-20T22:34:42+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/odonell-2018-registered/</loc>
     <lastmod>2019-06-20T20:21:11+02:00</lastmod>
   </url>
@@ -672,12 +705,6 @@
   <url>
     <loc>/authors/stefan-stieger/</loc>
     <lastmod>2019-04-27T17:11:54+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/thorsten-pachur/</loc>
-    <lastmod>2019-06-20T22:34:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1393,7 +1420,7 @@
   
   <url>
     <loc>/author/admin/</loc>
-    <lastmod>2019-04-27T16:38:59+02:00</lastmod>
+    <lastmod>2019-06-24T10:04:13+02:00</lastmod>
   </url>
   
   <url>
@@ -1423,7 +1450,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-04-27T16:38:59+02:00</lastmod>
+    <lastmod>2019-06-24T10:04:13+02:00</lastmod>
     <priority>0</priority>
   </url>
   
