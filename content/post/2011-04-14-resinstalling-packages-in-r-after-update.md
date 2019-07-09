@@ -9,22 +9,26 @@ permalink: /2011/04/resinstalling-packages-in-r-after-update/
 categories:
   - R
 ---
+This is old - by should still work :)
+
 The new version 2.13.0 of [R](http://www.r-project.org/ "R") has just been released and with the update comes the pain of re-installing all the packages from the old installation on the new one.
 
 [Stackoverflow](http://stackoverflow.com/ "Stackoverflow") to the rescue! This [posting](http://stackoverflow.com/questions/1401904/painless-way-to-install-a-new-version-of-r) provides a simple two step process of first writing a list of packages into a file on the disk in the old version, installing the new version and then comparing the exported list to the currently installed packages in the new version with setdiff. I just went through the process and have to say that it is deadeasy! Below the code &#8230;
 
-`#--run in the old version of R <br />
-setwd("C:/Temp/") <br />
-packages <- installed.packages()[,"Package"] <br />
+ 
+1. run in the old version of R
+
+```
+packages <- installed.packages()[,"Package"] 
 save(packages, file="Rpackages") `
+```
 
-`INSTALL NEW R VERSION`
+2. Install new R version
 
-`<code>#--run in the new version <br />
-setwd("C:/Temp/") <br />
-load("Rpackages") <br />
-for (p in setdiff(packages, installed.packages()[,"Package"])) <br />
-install.packages(p) <br />
-` </code>
+3. run in the new version
 
-``
+```
+load("Rpackages")
+for (p in setdiff(packages, installed.packages()[,"Package"]))
+install.packages(p)
+```
