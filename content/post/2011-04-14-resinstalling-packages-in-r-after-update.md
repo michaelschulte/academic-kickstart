@@ -17,14 +17,11 @@ The new version 2.13.0 of [R](http://www.r-project.org/ "R") has just been rele
 
  
 1. run in the old version of R
-
 ```
 packages <- installed.packages()[,"Package"] 
 save(packages, file="Rpackages") `
 ```
-
 2. Install new R version
-
 3. run in the new version
 
 ```
