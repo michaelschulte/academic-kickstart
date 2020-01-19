@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thorsten Pachur on Michael Schulte-Mecklenbeck</title>
-    <link>/authors/thorsten-pachur/</link>
+    <link>https://naughty-engelbart-220af0.netlify.com/authors/thorsten-pachur/</link>
     <description>Recent content in Thorsten Pachur on Michael Schulte-Mecklenbeck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/authors/thorsten-pachur/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naughty-engelbart-220af0.netlify.com/authors/thorsten-pachur/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The attention–aversion gap: how allocation of attention relates to loss aversion</title>
-      <link>/publication/lejarraga-2019-loss/</link>
+      <link>https://naughty-engelbart-220af0.netlify.com/publication/lejarraga-2019-loss/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>/publication/lejarraga-2019-loss/</guid>
+      <guid>https://naughty-engelbart-220af0.netlify.com/publication/lejarraga-2019-loss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prospect Theory Reflects Selective Allocation of Attention</title>
-      <link>/publication/pachur-2018-author/</link>
+      <link>https://naughty-engelbart-220af0.netlify.com/publication/pachur-2018-author/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/pachur-2018-author/</guid>
+      <guid>https://naughty-engelbart-220af0.netlify.com/publication/pachur-2018-author/</guid>
       <description></description>
     </item>
     

@@ -25,9 +25,12 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Decision Making",
+  "Risky Choice",
+  "Framing",
   "Process Tracing",
   "Eye-Tracking",
-  "Mouse-Tracking"
+  "Mouse-Tracking",
+  "Traffic Behavior"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -84,7 +87,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am interested in how people make decisions, what (cognitive) processes underly those decisions and how we can measure all of that. Within these lines of research I developed my own tools to study decision processes ([WebDiP](https://github.com/michaelschulte/webdip), [Flashlight](https://github.com/michaelschulte/flashlight), [The pyeTribe](https://github.com/michaelschulte/ThePyeTribe)) and answer questions like: What  information do people/consumers use when making food choices? or How do search processes in simple gamble decisions unfold?
+I study how people make decisions, what (cognitive) processes underly those decisions and how we can measure all of that. Within these lines of research I developed my own tools to study decision processes ([WebDiP](https://github.com/michaelschulte/webdip), [Flashlight](https://github.com/michaelschulte/flashlight), [The pyeTribe](https://github.com/michaelschulte/ThePyeTribe)) and answer questions like: What information do people/consumers use when making food choices? or How do search processes in simple gamble decisions unfold?
 
 All this  is done at the the University of Bern (Consumer Behavior), Switzerland and the Max-Planck-Institute for Human Development (Adaptive Rationality) in Berlin. I held positions at various other academic institutions and in the food industry (look at your breakfast table – the company I worked for is very likely present).
 

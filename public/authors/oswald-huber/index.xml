@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oswald Huber on Michael Schulte-Mecklenbeck</title>
-    <link>/authors/oswald-huber/</link>
+    <link>https://naughty-engelbart-220af0.netlify.com/authors/oswald-huber/</link>
     <description>Recent content in Oswald Huber on Michael Schulte-Mecklenbeck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/authors/oswald-huber/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naughty-engelbart-220af0.netlify.com/authors/oswald-huber/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Determining the information participants need: methods of active information search</title>
-      <link>/publication/huber-2011-determining/</link>
+      <link>https://naughty-engelbart-220af0.netlify.com/publication/huber-2011-determining/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>/publication/huber-2011-determining/</guid>
+      <guid>https://naughty-engelbart-220af0.netlify.com/publication/huber-2011-determining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information search in the laboratory and on the Web: With or without an experimenter</title>
-      <link>/publication/schulte-2003-information/</link>
+      <link>https://naughty-engelbart-220af0.netlify.com/publication/schulte-2003-information/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
       
-      <guid>/publication/schulte-2003-information/</guid>
+      <guid>https://naughty-engelbart-220af0.netlify.com/publication/schulte-2003-information/</guid>
       <description></description>
     </item>
     

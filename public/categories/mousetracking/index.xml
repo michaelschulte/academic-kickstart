@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mousetracking on Michael Schulte-Mecklenbeck</title>
-    <link>/categories/mousetracking/</link>
+    <link>https://naughty-engelbart-220af0.netlify.com/categories/mousetracking/</link>
     <description>Recent content in mousetracking on Michael Schulte-Mecklenbeck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/mousetracking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naughty-engelbart-220af0.netlify.com/categories/mousetracking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Handbook of Process Tracing Methods</title>
-      <link>/post/hoptm/</link>
+      <link>https://naughty-engelbart-220af0.netlify.com/post/hoptm/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/hoptm/</guid>
+      <guid>https://naughty-engelbart-220af0.netlify.com/post/hoptm/</guid>
       <description>WOOP WOOP - here it is - the second edition of our beloved &amp;ldquo;Handbook of Process Tracing Methods&amp;rdquo;
 If you can&amp;rsquo;t wait - buy it here: https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218
 It is bigger and better than the first edition, comes with the classics (Figner on skin conductance, Willemsen on Mouselab and many more) and many new awesome chapters - here is a list:

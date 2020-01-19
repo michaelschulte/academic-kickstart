@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Michael Schulte-Mecklenbeck</title>
-    <link>/project/</link>
+    <link>https://naughty-engelbart-220af0.netlify.com/project/</link>
     <description>Recent content in Projects on Michael Schulte-Mecklenbeck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Fri, 21 Jun 2019 09:54:30 +0200</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naughty-engelbart-220af0.netlify.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Project Name</title>
-      <link>/project/light/</link>
+      <link>https://naughty-engelbart-220af0.netlify.com/project/light/</link>
       <pubDate>Fri, 21 Jun 2019 09:54:30 +0200</pubDate>
       
-      <guid>/project/light/</guid>
+      <guid>https://naughty-engelbart-220af0.netlify.com/project/light/</guid>
       <description>Light and how it changes our driving speed &amp;hellip;</description>
     </item>
     
